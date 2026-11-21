@@ -1,0 +1,6 @@
+OK S01 → wiki/01-preparation.md (828 chars in source note)
+OK S02 → wiki/02-transportation.md (539 chars in source note)
+OK S03 → wiki/03-accommodation.md (521 chars in source note)
+OK S04 → wiki/04-itinerary.md (557 chars in source note)
+OK S05 → wiki/05-budget.md (500 chars in source note)
+INDEX COMPLETE: 5/5 sources → data/ingest_index.json

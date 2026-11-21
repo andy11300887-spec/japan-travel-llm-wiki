@@ -1,0 +1,74 @@
+{
+  "project": "日本自由行規劃入門",
+  "method": "curated-notes local ingest, not full-text web crawl",
+  "source_count": 5,
+  "wiki_chapters": 6,
+  "source_check_date": "2026-11-21",
+  "records": [
+    {
+      "id": "S01",
+      "title": "資料01｜入境日本與簽證資訊（摘要式Ingest）",
+      "source_note": "sources/01-visa-info.md",
+      "wiki_page": "wiki/01-preparation.md",
+      "official_url": "https://www.japan.travel/tw/plan/visa-info/",
+      "checked_on": "2026-11-21",
+      "note_sha256": "0c8788c855ea1b48c39b900d927be629c5ee6143ab60475b3eefb6b194c9f072",
+      "wiki_sha256": "f6c134e27e2163d8bbc045a077ce0a8b94641c92fb9d326f3deadde30f8d956f",
+      "note_chars": 828,
+      "status": "人工操作並修正（使用者回報）",
+      "method": "官方網頁重點原創摘要→本地Wiki；非官方全文下載"
+    },
+    {
+      "id": "S02",
+      "title": "資料02｜如何在日本搭火車與巴士旅行（摘要式Ingest）",
+      "source_note": "sources/02-train-bus.md",
+      "wiki_page": "wiki/02-transportation.md",
+      "official_url": "https://www.japan.travel/tw/guide/how-to-travel-by-train-and-bus-in-japan/",
+      "checked_on": "2026-11-21",
+      "note_sha256": "4f6d7fb17be7d075efa8137b429c0bd63511cf9ff7db5432e5246cc4ed52d5ef",
+      "wiki_sha256": "7ac656c2350daa58dcc700f567634904e80441102c0472fc6c6f4cb009a15105",
+      "note_chars": 539,
+      "status": "AI產生整理稿；待使用者逐項複核",
+      "method": "官方網頁重點原創摘要→本地Wiki；非官方全文下載"
+    },
+    {
+      "id": "S03",
+      "title": "資料03｜Accommodation（日本住宿指南；摘要式Ingest）",
+      "source_note": "sources/03-accommodation.md",
+      "wiki_page": "wiki/03-accommodation.md",
+      "official_url": "https://www.japan.travel/en/au/plan/accommodation/",
+      "checked_on": "2026-11-21",
+      "note_sha256": "545c67986302d440a0da7b0e8c91084c38635aa6108e990df807fc8e2887c6f7",
+      "wiki_sha256": "7c74cb6d7fc5d3203eddc222ab75a73d93b33a4ec475c449f2736335b919ab51",
+      "note_chars": 521,
+      "status": "AI產生整理稿；待使用者逐項複核",
+      "method": "官方網頁重點原創摘要→本地Wiki；非官方全文下載"
+    },
+    {
+      "id": "S04",
+      "title": "資料04｜關西三都：京都、奈良與大阪（摘要式Ingest）",
+      "source_note": "sources/04-kansai-trio.md",
+      "wiki_page": "wiki/04-itinerary.md",
+      "official_url": "https://www.japan.travel/tw/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+      "checked_on": "2026-11-21",
+      "note_sha256": "82a45f271850d4c6495ffc36a7719de113fdd36d09e184d652280ad7dc1c61a6",
+      "wiki_sha256": "d67b0dfd69adf541fa5a2f0a838b8579c8c855a5f461bb11aac79a067e7dd4e9",
+      "note_chars": 557,
+      "status": "AI產生整理稿；待使用者逐項複核",
+      "method": "官方網頁重點原創摘要→本地Wiki；非官方全文下載"
+    },
+    {
+      "id": "S05",
+      "title": "資料05｜日本旅遊預算指南（摘要式Ingest）",
+      "source_note": "sources/05-budget.md",
+      "wiki_page": "wiki/05-budget.md",
+      "official_url": "https://www.japan.travel/tw/guide/japan-on-a-budget/",
+      "checked_on": "2026-11-21",
+      "note_sha256": "bb2019ed478112d6c8d7e1afbda79e0ba329fb61b6a762669490ea0b542dcc2c",
+      "wiki_sha256": "39228c2893059bb836617b02d41c174b1f1a893cc18ed2cbb8055fefc017286c",
+      "note_chars": 500,
+      "status": "AI產生整理稿；待使用者逐項複核",
+      "method": "官方網頁重點原創摘要→本地Wiki；非官方全文下載"
+    }
+  ]
+}
